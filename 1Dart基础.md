@@ -3,7 +3,7 @@
 ```dart
 // 定义函数
 printInteger(int aNumber) {
-  print('The number is $aNumber.'); // 答应到控制台
+  print('The number is $aNumber.'); // 打印到控制台
 }
 
 // 这里是app开始执行的地方
